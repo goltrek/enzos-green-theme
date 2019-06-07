@@ -1,5 +1,4 @@
 # enzos-green-theme
-_____
 Tema com tom Verde, bordas e botões de janelas Arc.
 _____
 # Como instalar
