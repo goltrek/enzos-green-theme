@@ -1,5 +1,5 @@
 # enzos-green-theme
-Tema com tom Verde, bordas e botões de janelas Arc.
+Tema com tom Verde, no Mate bordas e botões de janelas Arc e no Xfce bordas e botões de janelas coloridas.
 _____
 # Como instalar
 Ao baixar o arquivo .zip, extrair a pasta enzos-green-theme-master para sua /home. Dentro dessa pasta tem o arquivo Enzos Green.zip, extrair a pasta Enzos Green para /home/.themes. Se não houver a pasta .themes, é preciso criar uma.
